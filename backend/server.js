@@ -5,7 +5,6 @@ const app = express();
 
 app.use(express.json());
 
-// 👇 AQUÍ es clave
 app.use('/users', usersRoutes);
 
 app.listen(3000, () => {

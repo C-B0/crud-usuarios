@@ -38,7 +38,7 @@ package.json
 ### 1️⃣ Clonar el repositorio
 
 ```bash
-git clone https://github.com/C-B0/crud-usuarios.git
+git clone https://github.com/C-B0/crud-usuarios
 cd crud-usuarios
 ```
 
